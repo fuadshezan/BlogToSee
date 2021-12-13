@@ -7,7 +7,7 @@ Read a JSON file where id, title, and description are stored. On the home page, 
 
 ## Demo
 
-Insert gif or link to demo
+<p><img alt="demo.gif" src="https://github.com/fuadshezan/BlogToSee/blob/main/blogshow.gif"/></p>
 
 
 ## Documentation
